@@ -9,3 +9,7 @@ func AnotherFun() {
 func NewPrinting() {
 	fmt.Println("New Printing")
 }
+
+func NewestFun() {
+	fmt.Println("Newest")
+}
