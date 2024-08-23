@@ -1,4 +1,4 @@
-module github.com/golang-tut/another-packages
+module github.com/golang-tut/another-package
 
 go 1.21.12
 
