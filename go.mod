@@ -1,4 +1,4 @@
-module example.com/foadmoradi
+module github.com/golang-tut/another-packages
 
 go 1.21.12
 
